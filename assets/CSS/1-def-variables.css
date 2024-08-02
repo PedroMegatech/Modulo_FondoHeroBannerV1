@@ -1,0 +1,24 @@
+@import url('./0-SetDefault.css');
+
+:root {
+    --fondoMega: #ed6e0f;
+    --fondoMega2: #ed6e0f20;
+    --fondoBanner: #ffe5d9;
+    --fondoLogin1: #ffbf6930;
+    --fondoLogin2: #fec89a20;
+    --fondoLogin3: #fafaff60;
+    --fondo1: #fb8500;
+    --fondo2: #ffbf69;
+    --fondo3: #e09f3e;
+    --fondo4: #ffb703;
+    --fondo5: #ffd166;
+    --fondo6: #e9c46a;
+    --fondo7: #ff6700;
+    --fondo8: #ff9f1c;
+    --fondo9: #ee9b00;
+    --fondoBlanco: white;
+    --fondoNegro:black;
+    --fondoGris: #333333;
+    --fondoGrisClaro: #666666;
+    --fondoGrisOscuro: #222222;
+}
